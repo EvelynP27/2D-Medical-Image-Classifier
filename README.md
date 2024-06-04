@@ -23,7 +23,7 @@ The dataset used for this project consists of 58954 samples of 2D medical images
 ## Usage
 1. Open this [link](https://colab.research.google.com/drive/103xEESfkA2BpFe3_39rZGTS8_px9HnP9?usp=sharing) to access the Google Colab file and make a copy
 
-2. Run the Google Colab to preprocess the data, train the model, and make predictions.
+2. Run the Google Colab to preprocess the data, train the model, and make classifications.
 
 ## Technologies Used
 - Programming languages: Python
